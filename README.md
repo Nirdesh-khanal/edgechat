@@ -1,11 +1,10 @@
-# BeatMe
+# EdgeChat
 
-BeatMe is a modern, full-stack application combining real-time chat functionality with music streaming capabilities. It features a sleek, responsive user interface built with React and a robust Django backend.
+EdgeChat is a modern, full-stack application centered around real-time chat functionality. It features a sleek, responsive user interface built with React and a robust Django backend.
 
 ## 🚀 Features
 
 - **Real-time Messaging**: Instant communication with other users.
-- **Music Player**: Integrated music streaming experience.
 - **User Authentication**: Secure login and registration.
 - **File Sharing**: Send images and files seamlessly.
 - **Modern UI**: Dark/Light mode support, glassmorphism design, and responsive layout using Tailwind CSS and DaisyUI.
@@ -21,7 +20,7 @@ BeatMe is a modern, full-stack application combining real-time chat functionalit
 ### Backend
 - **Framework**: Django
 - **API**: Django REST Framework
-- **Database**: SQLite (default) / PostgreSQL (configurable)
+- **Database**: PostgreSQL
 
 ## 📦 Project Structure
 
